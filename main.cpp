@@ -19,4 +19,6 @@ int main()
 cout<<"You have earned $" <<pay <<endl;
 return 0;
 
+
+
 }
